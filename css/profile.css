@@ -1,0 +1,7 @@
+body{ 
+  background: url('C:/git repos/pay/images/payonline.jpg') no-repeat center center fixed; /*to set the background image*/
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
