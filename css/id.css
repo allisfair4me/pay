@@ -1,0 +1,14 @@
+.number{
+    position: relative;
+    width: 400px;
+    height: 200px;
+   
+}
+
+body {
+  background-image: url("C:/Users/Administrator/Desktop/pay/images/id.jpg");
+  background-repeat: no-repeat;
+  
+  position: center;
+
+}

@@ -1,5 +1,5 @@
 body{ 
-  background: url('C:/git repos/pay/images/bgshop.jpg') no-repeat center center fixed; /*to set the background image*/
+  background: url('C:/Users/Administrator/Desktop/pay/images/bgshop.jpg') no-repeat center center fixed; /*to set the background image*/
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -9,8 +9,8 @@ body{
 #shop{
 	
      position:relative;
-    top: -8px;
-    left: -5px;
+    top: -380px;
+    left: 383px;
     right: 100px;
     bottom: 100px;
 }
@@ -18,72 +18,72 @@ body{
 	img-color:yellow;
 	border:1px solid black;
 	 position:relative;
-    top: -10px;
-    left: -7px;
+    top: -30px;
+    left: -20px;
     right: 100px;
     bottom: 100px;
 }
 #all{                               /*buttons position*/
 	 position:relative;
-    top: -1px;
-    left: -140px;
+    top: -107px;
+    left: -40px;
     right: 100px;
     bottom: 100px;
 }
 #alli{
 	 position:relative;
-    top: 2px;
-    left: 380px;
+    top: -307px;
+    left: -65px;
     right: 100px;
     bottom: 100px;
 }
 #allis{
 	 position:relative;
-    top: -412px;
+    top: -712px;
     left: 480px;
     right: 100px;
     bottom: 100px;
 }
 #allisw{
 	 position:relative;
-    top: -620px;
-    left: 1250px;
+    top: -925px;
+    left: 850px;
     right: 100px;
     bottom: 100px
 }
 #alliswe{
 	position:relative;
-    top: -515px;
-    left: 1280px;
+    top: -795px;
+    left: 1180px;
     right: 100px;
     bottom: 100px
 }
 #alliswel{
 	position:relative;
-    top: -720px;
-    left: 990px;
+    top: -1002px;
+    left: 850px;
     right: 100px;
     bottom: 100px
 }
 #alliswell{
 	position:relative;
-    top: -915px;
+    top: -1205px;
     left: 150px;
     right: 100px;
     bottom: 100px
 }
 #alliswelll {
 	position:relative;
-    top: -913px;
-    left: 300px;
+    top: -1210px;
+    left: 199px;
     right: 100px;
     bottom: 100px
 }
 #bluetooth{
 	 border:1px solid black;
 	 position:relative;
-    top: 6px;
-    left: 10px;
+    top: -90px;
+    left: 120px;
     right: 100px;
     bottom: 100px;
 }
@@ -91,15 +91,15 @@ body{
 	
 	  border:1px solid black;
 	  position:relative;
-    top: 9px;
-    left: 530px;
+    top: -300px;
+    left: 90px;
     right: 100px;
     bottom: 100px;
 }
 #shoes{	  
 border:1px solid black;
 	  position:relative;
-    top: -200px;
+    top: -500px;
     left: 430px;
     right: 100px;
     bottom: 100px;
@@ -108,8 +108,8 @@ border:1px solid black;
 #mob{	
   border:1px solid black;
 	  position:relative;
-    top: -405px;
-    left: 1100px;
+    top: -710px;
+    left: 700px;
     right: 100px;
     bottom: 100px;
 	
@@ -117,8 +117,8 @@ border:1px solid black;
 #jeans{	 
  border:1px solid black;
 	  position:relative;
-    top: -300px;
-    left: 1100px;
+    top: -580px;
+    left: 1025px;
     right: 100px;
     bottom: 100px;
 	
@@ -126,15 +126,15 @@ border:1px solid black;
 #earphone{
 		  border:1px solid black;
 	  position:relative;
-    top: -505px;
-    left: 830px;
+    top: -787px;
+    left: 715px;
     right: 100px;
     bottom: 100px;
 }
 #glass{
 		  border:1px solid black;
 	  position:relative;
-    top: -700px;
+    top: -990px;
     left: 10px;
     right: 100px;
     bottom: 100px;
@@ -143,8 +143,8 @@ border:1px solid black;
 #helmet{
 	 border:1px solid black;
 	  position:relative;
-    top: -906px;
-    left: 440px;
+    top: -1203px;
+    left: 340px;
     right: 100px;
     bottom: 100px;
 }
